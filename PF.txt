@@ -1,0 +1,14 @@
+What is Programming?|Programming is the process of writing instructions for a computer to perform tasks.Programs are written using programming languages.
+Basic Structure of a Program|Most programs include:Input,Processing,Output.
+Data Types|Common data types:int,float,char,bool,string.
+Operators|Operators are symbols used to perform operations.Types:Arithmetic (+, -, *, /, %),Relational (==, !=, >, <),Logical (&&, ||, !),Assignment (=, +=, -=).
+Conditional Statements|Used to make decisions in a program.Examples:if, else-if, else, switch-case.
+Loops|Loops are used to repeat a block of code.Types:for loop,while loop,do-while loop.
+Functions|Functions are blocks of reusable code.Example:int add(int a, int b)
+Passing Parameters|Two types:Pass by value,Pass by reference.
+Input/Output|cin is used for input.,cout is used for output.
+Strings|Strings store sequences of characters.Example:string name = "Ayesha";
+Basic Algorithm Steps|Every problem can be solved by:1. Understanding the problem,2. Designing the solution,3. Writing the code,4. Testing and debugging
+Flowcharts|Flowcharts visually represent the steps of a program using symbols.
+Advantages of Learning PF|Builds logic,Forms the foundation for OOP, DSA, DB, AI,Improves problem-solving skills
+getter and setter|A getter is a public function that returns the value of a private variable of a class.A setter is a public function that assigns a value to a private variable of a class.

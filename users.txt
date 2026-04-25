@@ -1,0 +1,11 @@
+fatima*12345678*student
+haider*09876543*admin
+haider*09876543*admin
+fatima*12345678*student
+ali*09876543*admin
+fatima*12345678*student
+qwerty*mnbvcxza*admin
+momina*12345678*student
+fatima*12345678*student
+fatima*12345678*student
+qwerty*zxcvbnml*admin

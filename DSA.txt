@@ -1,0 +1,11 @@
+Arrays | Linear data structure storing elements in contiguous memory. Key operations: Insert, delete, traverse, search, update. Use cases: Lists, static datasets.
+Linked Lists | Collection of nodes where each node points to the next. Key operations: Insert at start/end, delete, search. Use cases: Dynamic memory, queues, stacks.
+Stacks | LIFO (Last In First Out) structure. Key operations: Push, pop, peek. Use cases: Undo operations, function call stack.
+Queues | FIFO (First In First Out) structure. Key operations: Enqueue, dequeue, front. Use cases: Scheduling, CPU tasks, printers.
+Trees | Hierarchical data structure with root and children nodes. Key operations: Insert, search, traversal (inorder, preorder, postorder). Use cases: File systems, indexing.
+Binary Search Tree (BST) | Tree where left < root < right. Key operations: Search, insert, delete. Use cases: Fast searching, dictionaries.
+Graphs | Nodes connected by edges. Types: Directed, undirected, weighted. Use cases: Maps, social networks.
+Hashing | Maps keys to indexes using a hash function. Key operations: Insert, search, delete. Use cases: Lookup tables, databases.
+Sorting Algorithms | Types: Bubble, Selection, Insertion, Merge, Quick. Use cases: Ordering data for search or display.
+Searching Algorithms | Types: Linear search, Binary search. Use cases: Efficient data finding.
+heapsort

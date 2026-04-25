@@ -1,0 +1,16 @@
+Object-Oriented Programming (OOP)
+What is OOP?| OOP organizes a program into objects that contain data and methods.
+Key Features of OOP| Encapsulation, Inheritance, Polymorphism, Abstraction.
+Encapsulation| Wrapping data and methods inside a class to protect data. Example: private int age;
+Inheritance| One class using properties of another class. Example: class Student : public Person
+Polymorphism| Same function behaves differently based on context (overloading/overriding).
+Abstraction| Hides unnecessary details; shows only essentials. Example: using a car without knowing engine details.
+Class| A blueprint for creating objects containing data members and methods.
+Object| An instance of a class. Example: Student s1;
+Constructor| Automatically initializes objects.
+Destructor| Automatically destroys objects and frees memory.
+Access Modifiers| private, public, protected.
+Function Overloading| Same function name, different parameters.
+Function Overriding| Same function name & parameters in derived class.
+Real-Life Example of OOP| A car has data (color/model) and methods (start, brake).
+Advantages of OOP| Better organization, reusable code, easy maintenance.
